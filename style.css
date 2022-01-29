@@ -1,0 +1,251 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+img.picture{
+    width: 40px;
+    border-radius: 30px;
+    
+    border: 2px solid rgba(252, 11, 11, 0.699);
+}
+
+div.nav-bar{
+    width: 380px;
+    display: flex;
+    border: 1px solid grey;
+    height: 50px;
+    position:fixed;
+    background-color: white;
+}
+img{
+    margin: 5px;
+}
+h4{
+   position:relative;
+   top: 10px;
+font-size: 28px;
+ 
+   height: 14px;
+
+}
+img:active{
+    border-radius: 19px;
+    border:1px solid red;
+}
+
+img.picture:active{
+border: 2px solid blue;
+}
+
+.box{
+    padding: 8px 0px;
+}
+
+.patrick{
+    border-radius: 32px;
+    border: 2px solid rgb(22, 120, 248);
+}
+
+.kira{
+    border-radius: 32px;
+    border: 2px solid rgb(22, 120, 248);
+
+}
+
+.jeanette{
+    border-radius: 32px;
+    border: 2px solid rgb(22, 120, 248);
+}
+
+.brad{
+    width:58px;
+    border-radius: 40px;
+     ;
+    border: 2px solid rgb(22, 120, 248);
+}
+
+div.box{
+    border-bottom: 1px solid gray;
+}
+
+.color{
+    height: 25px;
+    background-color: whitesmoke;
+}
+
+h5{
+    float: right;
+position: relative;
+right: 160px;
+top: 25px;
+font-size: 18px;
+
+background-attachment:inherit;
+
+}
+
+    .ellips{
+        margin-left:300px;
+        width: 30px;
+
+position:relative;
+bottom: 56px;
+
+    }
+
+    div.main{
+height: 72px;
+
+    }
+
+    div.bg{
+        height:440px;
+        background-repeat: no-repeat;
+        background-image: url("images/present-small.jpg");
+        margin:0px;
+        padding:0px;
+        width:auto;
+        margin-top:-10px;
+    }
+
+    div.align{
+padding-left: 30px;
+    }
+
+    .emojie{
+    
+        width:28px;
+        margin-left:162px;
+        margin-top:-195px;
+        
+    }
+    p{
+       
+       width:300px;
+    }
+
+    p.modi{
+        width: 180px ;
+    }
+
+    .red{
+        width:38px;
+    }
+
+    .sms{
+        width:38px;
+    }
+.send{
+    width:38px;
+}
+
+div.like{
+    margin-left:12px;
+  
+    margin-top:-30px;
+}
+
+small{
+    margin-left:38px;
+    margin-bottom:50px;
+   opacity: 50%;
+}
+
+.ra{
+height:440px;
+background-repeat: no-repeat;
+background-image: url("images/gallery-9.jpg");
+margin:0px;
+padding:0px;
+width:auto;
+margin-top:-4px;
+}
+
+.second{
+  
+        margin-left:18px;
+      
+        margin-top:-99px;
+    }
+
+    .noumbiep{
+
+        height:440px;
+background-repeat: no-repeat;
+background-image: url("images/galery1.jpg");
+margin:0px;
+padding:0px;
+
+margin-top:-4px;
+    }
+
+    .third{
+        margin-left:18px;
+      
+        margin-top:-99px;
+    }
+
+    .brandon{
+        width: 59px;
+        border-radius: 34px;
+        margin-left: 9px;
+        border: 2px solid  rgb(22, 120, 248);
+    }
+
+    .bk{
+
+        height:440px;
+        background-repeat: no-repeat;
+        background-image: url("images/computer.jpg");
+        background-size: cover;
+        margin:0px;
+        padding:0px;
+        
+        margin-top:-2px;
+
+    }
+    
+    .yo{
+
+        margin-left:18px;
+      
+        margin-top:-5px;
+
+    }
+
+    .pat{
+        height:440px;
+        background-repeat: no-repeat;
+        background-image: url("images/testimonial-big.jpg");
+        background-size: cover;
+        margin:0px;
+        padding:0px;
+        
+        margin-top:-2px;
+
+    }
+
+    .shout{
+
+        margin-left:12px;
+  
+        margin-top:-4px;
+
+    }
+
+    footer{
+        height: 200px;
+        background-color: dodgerblue;
+    }
+
+    h4.foot{
+        font-size: 18px;
+        color: white;
+        margin-bottom:12px;
+    }
+
+    span{
+        color: rgb(226, 192, 43);
+    }
